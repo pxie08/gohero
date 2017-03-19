@@ -1,2 +1,2 @@
 # gohero
-heroku + golang + react-redux
+golang + react-redux
